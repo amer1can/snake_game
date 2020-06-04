@@ -1,0 +1,76 @@
+
+    #container {
+      margin: 0 auto;
+      width: 200px;
+      height: 200px;
+      background-color: black;
+      position: relative;
+      margin-bottom: 20px;
+      
+    }
+    .pos {
+      margin: 0 auto;
+      text-align: center;
+      width: 400px;
+    }
+    #box {
+      width: 6px;
+      height: 6px;
+      background-color: brown;
+      position: absolute;
+    }
+    .center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 200px;
+      margin: 0 auto;
+    }
+    #stopBtn {
+      width: 75px;
+      height: 75px;
+      background: red;
+      color: white;
+    }
+    #leftBtn {
+      width: 50px;
+      height: 50px;
+      background: gray;
+      color: black;
+      margin-right: 10px;
+    }
+    #rightBtn {
+      width: 50px;
+      height: 50px;
+      background: gray;
+      color: black;
+      margin-left: 10px;
+    }
+    #upBtn {
+      width: 50px;
+      height: 50px;
+      background: gray;
+      color: black;
+      margin-bottom: 10px;
+    }
+    #downBtn {
+      width: 50px;
+      height: 50px;
+      background: gray;
+      color: black;
+      margin-top: 10px;
+    }
+    #changeApple {
+      width: 100px;
+      height: 50px;
+      background: yellow;
+      color: black;
+      margin-top: 5px;
+    }
+    #apple {
+      width: 6px;
+      height: 6px;
+      background-color: green;
+      position: absolute;
+      border-radius: 2px;
+    }
